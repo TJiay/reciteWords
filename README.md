@@ -1,3 +1,3 @@
 # ReciteWords
-## How to run
+## Getting Started
 **run `python main.py` to start practice reciting words**
